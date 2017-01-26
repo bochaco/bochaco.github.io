@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.7499300c.css",
   "main.css.map": "static/css/main.7499300c.css.map",
-  "main.js": "static/js/main.92f5ac44.js",
-  "main.js.map": "static/js/main.92f5ac44.js.map",
+  "main.js": "static/js/main.cb74695b.js",
+  "main.js.map": "static/js/main.cb74695b.js.map",
   "static/media/2fa.png": "static/media/2fa.a71a50d3.png",
   "static/media/altcoin.png": "static/media/altcoin.275422bc.png",
   "static/media/app_logo.png": "static/media/app_logo.c9c4f9ae.png",
@@ -15,7 +15,6 @@
   "static/media/icons.ttf": "static/media/icons.1dc35d25.ttf",
   "static/media/icons.woff": "static/media/icons.c8ddf1e5.woff",
   "static/media/icons.woff2": "static/media/icons.e6cf7c6e.woff2",
-  "static/media/jcard.png": "static/media/jcard.854b7231.png",
   "static/media/password.jpg": "static/media/password.a07f0923.jpg",
   "static/media/qr_code.png": "static/media/qr_code.7a603b67.png",
   "static/media/safecoin.png": "static/media/safecoin.dc6cb756.png"
